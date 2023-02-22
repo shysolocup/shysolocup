@@ -1,0 +1,3 @@
+- 16
+- Artist ([Clip Studio Paint](https://www.clipstudio.net/en/))
+- Scripter (Python, Lua, JS and C++)
