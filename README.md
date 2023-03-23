@@ -1,9 +1,6 @@
 ### Info
-- 16
-- Artist ([Clip Studio Paint](https://www.clipstudio.net/en/))
-- Scripter (Python, Lua, JS and C++)
-- not a family guy reference.
-<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuttmegg&theme=github_dark"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttmegg&theme=github_dark">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=nuttmegg&theme=github-compact">
 
 ### Projects
 - **[Discord+PS](https://github.com/nuttmegg/discordpps):** Discord.JS mod that combines Discord.JS and Discord.PY to make it more simplistic to use
