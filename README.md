@@ -4,4 +4,5 @@
 ### Projects
 - **[Stews](https://github.com/nuttmegg/stew):** Node.JS Package that makes two new data types combining the main types to improve how you store data
 - **[Discord+PS](https://github.com/nuttmegg/discordpps):** Discord.JS mod that combines Discord.JS and Discord.PY to make it more simplistic to use
+- **[Clam (wip)](https://github.com/nuttmegg/Clam):** A Discord bot letting you create and manage groups of people in a server
 - **[nutfl (old)](https://github.com/nuttmegg/nutfl):** A function library with ports from python to make scripting easier
