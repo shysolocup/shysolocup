@@ -16,6 +16,11 @@ A Discord bot letting you create and manage groups of people in a server with cu
 
 <br>
 
+### **[Paige's PSC Kit:](https://github.com/nuttmegg/paiges-psc-kit)** 
+A small bot kit using PSC and stews that automatically builds commands and compiles classes for you
+
+<br>
+
 ### **[PSC:](https://github.com/nuttmegg/psc)** 
 Discord.JS mod that combines Discord.JS and Discord.PY to make it more simplistic to use.
 
