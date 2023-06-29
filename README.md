@@ -16,7 +16,7 @@ A Discord bot letting you create and manage groups of people in a server with cu
 
 <br>
 
-### **[Discord+PS:](https://github.com/nuttmegg/discordpps)** 
+### **[PSC:](https://github.com/nuttmegg/psc)** 
 Discord.JS mod that combines Discord.JS and Discord.PY to make it more simplistic to use.
 
 <br>
