@@ -11,25 +11,25 @@ Node.JS Package that makes two new data types combining the main types to improv
 
 <br>
 
-### **[Clam v2.0 (WIP):](https://github.com/nuttmegg/Clam)** 
+### **[Clam v2.0 (WIP):](https://github.com/paigeroid/Clam)** 
 A Discord bot letting you create and manage groups of people in a server with customizable clan and economy systems
 
 <br>
 
-### **[Paige's PSC Kit:](https://github.com/nuttmegg/paiges-psc-kit)** 
+### **[Paige's PSC Kit:](https://github.com/paigeroid/paiges-psc-kit)** 
 A small discord bot kit using PSC and stews that automatically builds commands and compiles classes for you
 
 <br>
 
-### **[PSC:](https://github.com/nuttmegg/psc)** 
+### **[PSC:](https://github.com/paigeroid/psc)** 
 Discord.JS mod that combines Discord.JS and Discord.PY to make it more simplistic to use.
 
 <br>
 
-### **[bucket lua:](https://github.com/nuttmegg/bucket-lua)**
+### **[bucket lua:](https://github.com/paigeroid/bucket-lua)**
 A port of Stews for Lua
 
 <br>
 
-### **[nutfl (OLD):](https://github.com/nuttmegg/nutfl)** 
+### **[nutfl (OLD):](https://github.com/paigeroid/nutfl)** 
 A function library with ports from python to make scripting for new JavaScript users easier.
