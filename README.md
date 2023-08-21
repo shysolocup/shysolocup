@@ -26,10 +26,10 @@ Discord.JS mod that combines Discord.JS and Discord.PY to make it more simplisti
 
 <br>
 
-### **[nutfl (OLD):](https://github.com/nuttmegg/nutfl)** 
-A function library with ports from python to make scripting for new JavaScript users easier.
+### **[bucket lua:](https://github.com/nuttmegg/bucket-lua)**
+A port of Stews for Lua
 
 <br>
 
-### **[bucket lua:](https://github.com/nuttmegg/bucket-lua)**
-A Lua port of Stews
+### **[nutfl (OLD):](https://github.com/nuttmegg/nutfl)** 
+A function library with ports from python to make scripting for new JavaScript users easier.
