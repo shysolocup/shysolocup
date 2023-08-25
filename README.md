@@ -16,13 +16,13 @@ A Discord bot letting you create and manage groups of people in a server with cu
 
 <br>
 
-### **[Paige's WillClient Kit:](https://github.com/paigeroid/paiges-wc-kit)** 
-A small discord bot kit using WillClient and Stews that automatically builds commands and compiles classes for you
+### **[WillClient:](https://github.com/paigeroid/willclient)** 
+Custom Discord API mod made in Node.JS that combines elements from Discord.PY and Discord.JS
 
 <br>
 
-### **[WillClient:](https://github.com/paigeroid/willclient)** 
-Custom Discord API mod made in Node.JS that combines elements from Discord.PY and Discord.JS
+### **[Paige's WillClient Kit:](https://github.com/paigeroid/paiges-wc-kit)** 
+A small discord bot kit using WillClient and Stews that automatically builds commands and compiles classes for you
 
 <br>
 
