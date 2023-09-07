@@ -1,4 +1,4 @@
-| there would be something <br> here but it's broken | <img  height=150 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paigeroid&theme=github_dark"> |
+| there would be something <br> here but it's broken | <img height=150 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paigeroid&theme=github_dark"> |
 | ---- | ---- |
 | <img height=150 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paigeroid&theme=github_dark"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paigeroid&theme=github_dark">
 
@@ -6,7 +6,7 @@
 
 # Projects
 
-### **[Stews:](https://github.com/nuttmegg/stew)** 
+### **[Stews:](https://github.com/paigeroid/stew)** 
 Node.JS Package that makes two new data types combining the main types to improve how you store data.
 
 <br>
@@ -18,6 +18,11 @@ A Discord bot letting you create and manage groups of people in a server with cu
 
 ### **[WillClient:](https://github.com/paigeroid/willclient)** 
 Custom Discord API mod made in Node.JS that combines elements from Discord.PY and Discord.JS
+
+<br>
+
+### **[Pangine](https://github.com/paigeroid/pangine)**
+A Discord.JS multiplayer minigame framework using WillClient and Stews
 
 <br>
 
