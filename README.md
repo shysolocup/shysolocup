@@ -33,8 +33,3 @@ A small discord bot kit using WillClient and Stews that automatically builds com
 
 ### **[bucket lua:](https://github.com/paigeroid/bucket-lua)**
 A port of Stews for Lua
-
-<br>
-
-### **[nutfl (OLD):](https://github.com/paigeroid/nutfl)** 
-A function library with ports from python to make scripting for new JavaScript users easier.
