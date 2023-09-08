@@ -16,13 +16,13 @@ A Discord bot letting you create and manage groups of people in a server with cu
 
 <br>
 
-### **[WillClient:](https://github.com/paigeroid/willclient)** 
-Custom Discord API mod made in Node.JS that combines elements from Discord.PY and Discord.JS
+### **[Pangine](https://github.com/paigeroid/pangine)**
+A Discord.JS multiplayer minigame framework using WillClient and Stews
 
 <br>
 
-### **[Pangine](https://github.com/paigeroid/pangine)**
-A Discord.JS multiplayer minigame framework using WillClient and Stews
+### **[WillClient:](https://github.com/paigeroid/willclient)** 
+Custom Discord API mod made in Node.JS that combines elements from Discord.PY and Discord.JS
 
 <br>
 
