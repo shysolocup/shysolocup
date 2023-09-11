@@ -6,7 +6,7 @@
 
 # Projects
 
-### **[Stews:](https://github.com/paigeroid/stew)** 
+### **[Stews:](https://github.com/paigeroid/stews)** 
 Node.JS Package that makes two new data types combining the main types to improve how you store data.
 
 <br>
