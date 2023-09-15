@@ -6,13 +6,13 @@
 
 # Projects
 
-### **[Stews:](https://github.com/paigeroid/stews)** 
-Node.JS Package that makes two new data types combining the main types to improve how you store data.
+### **[aepl:](https://github.com/paigeroid/aepl)** 
+A Node.JS multi-layered class builder with built-in parent systems as well as better function and property makers
 
 <br>
 
-### **[Clam v2.0 (WIP):](https://github.com/paigeroid/Clam)** 
-A Discord bot letting you create and manage groups of people in a server with customizable clan and economy systems
+### **[Stews:](https://github.com/paigeroid/stews)** 
+Node.JS Package that makes two new data types combining the main types to improve how you store data.
 
 <br>
 
