@@ -6,6 +6,11 @@
 
 # Projects
 
+### **[noscord.js:](https://github.com/paigeroid/noscord.js)** 
+A customized Discord API built on Discord.JS that adds imports letting you access the API more easily
+
+<br>
+
 ### **[aepl:](https://github.com/paigeroid/aepl)** 
 A Node.JS multi-layered class builder with built-in parent systems as well as better function and property makers
 
@@ -25,11 +30,3 @@ A Discord.JS multiplayer minigame framework using WillClient and Stews
 Custom Discord API mod made in Node.JS that combines elements from Discord.PY and Discord.JS
 
 <br>
-
-### **[Paige's WillClient Kit:](https://github.com/paigeroid/paiges-wc-kit)** 
-A small discord bot kit using WillClient and Stews that automatically builds commands and compiles classes for you
-
-<br>
-
-### **[bucket lua:](https://github.com/paigeroid/bucket-lua)**
-A port of Stews for Lua
