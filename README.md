@@ -7,7 +7,7 @@
 # Projects
 
 ### **[noscord.js:](https://github.com/paigeroid/noscord.js)** 
-A customized Discord API built on Discord.JS that adds imports letting you access the API more easily
+A customized Discord API wrapper built on Discord.JS that adds imports letting you access the API more easily
 
 <br>
 
