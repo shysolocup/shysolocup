@@ -1,22 +1,22 @@
 | there would be something <br> here but it's broken | <img height=150 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paishee&theme=github_dark"> |
 | ---- | ---- |
-| <img height=150 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paishee&theme=github_dark"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paishee&theme=github_dark">
+| <img height=150 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shysolocup&theme=github_dark"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shysolocup&theme=github_dark">
 
 <br>
 
 # Projects
 
-### **[noscord.js:](https://github.com/paishee/noscord.js)** 
+### **[noscord.js:](https://github.com/shysolocup/noscord.js)** 
 A customized Discord API wrapper built on Discord.JS that adds imports letting you access the API more easily
 
 <br>
 
-### **[aepl:](https://github.com/paishee/aepl)** 
+### **[aepl:](https://github.com/shysolocup/aepl)** 
 A Node.JS multi-layered class builder with built-in parent systems as well as better function and property makers
 
 <br>
 
-### **[Stews:](https://github.com/paishee/stews)** 
+### **[Stews:](https://github.com/shysolocup/stews)** 
 Node.JS Package that makes two new data types combining the main types to improve how you store data.
 
 <br>
